@@ -1,6 +1,6 @@
 # PHP Starter
 
-A starting point for simple PHP tasks when you don't want to use framework. No third party.
+A starting point for simple PHP tasks when you don't need to use framework. No third party.
 
 Notice: Still in development phase
 
