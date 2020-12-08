@@ -1,0 +1,12 @@
+{
+    "name": "sena92/php-starter",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/Utilities/helpers.php"
+        ]
+    }
+}
