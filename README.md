@@ -11,9 +11,7 @@ Notice: Still in development phase
 composer dumpautoload
 ```
 
-2 . Create database and change credentials in config/database.php file
-
-3 . Run your server and open http://localhost:8000
+2 . Run your server and open http://localhost:8000
 ```
 php -S localhost:8000
 ```
